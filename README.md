@@ -1,3 +1,9 @@
+*I use this for my teaching website (http://users.nik.uni-obuda.hu/siposm/) /eredmenyek. Simple and easy, good luck to use it!\
+Note: this is not mine. Credits:*
+
+
+
+
 Directory Lister - The simple PHP directory lister
 ==================================================
 Created by, [Chris Kankiewicz](http://www.ChrisKankiewicz.com)
